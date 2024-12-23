@@ -1,3 +1,5 @@
 this is new file named file 2.txt
 
 new method responsive
+2 - 3
+I made responsivse too
